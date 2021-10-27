@@ -32,4 +32,4 @@ spec:
               configMapKeyRef:
                 name: hostname-config
                 key: postgres_host
-        image: dockerj007/spring-boot:latest
+        image: ssadcloud/dion:latest
